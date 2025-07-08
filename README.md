@@ -58,7 +58,7 @@
 
 ### 🏅 Certificates
 
-- 🎓 [W3Elites Internship Certificate (2024)](https://drive.google.com/file/d/1mfst7u6MYZnwJG8nGXAwot9efZygr3j3/view?usp=sharing)
+- 🎓 [W3Elites Summer Training Certificate (2024)](https://drive.google.com/file/d/1mfst7u6MYZnwJG8nGXAwot9efZygr3j3/view?usp=sharing)
 - 📜 Coursera: Web Development with HTML, CSS, JS (2024)
 - 📜 Coursera: Programming in C++ (2023)
 - 🎗️ CDP Volunteer Certificate (Encourage Child Foundation - 2023)
