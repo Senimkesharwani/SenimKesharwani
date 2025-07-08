@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 - 🔭 I’m currently pursuing **B.Tech in Computer Science** at **Lovely Professional University**
 - 🌱 I’ve completed **Full Stack MERN + AI Integration Training** at **W3Elites**
-- 💪 Built projects like [**Fitness App**](https://portfolio-senim.netlify.app) using **React** + **Rapid API**
+- 💪 Built projects like [**Fitness App**](https://swarnimfitnessreact.netlify.app/) using **React** + **Rapid API**
 - 👨‍👩‍👧‍👦 Volunteered at **Encourage Child Foundation** for community health & education
 - 📫 Reach me at **swarnimkesharwani4@gmail.com**
 
@@ -58,7 +58,7 @@
 
 ### 🏅 Certificates
 
-- 🎓 [W3Elites Internship Certificate (2024)](https://portfolio-senim.netlify.app)
+- 🎓 [W3Elites Internship Certificate (2024)](https://drive.google.com/file/d/1mfst7u6MYZnwJG8nGXAwot9efZygr3j3/view?usp=sharing)
 - 📜 Coursera: Web Development with HTML, CSS, JS (2024)
 - 📜 Coursera: Programming in C++ (2023)
 - 🎗️ CDP Volunteer Certificate (Encourage Child Foundation - 2023)
@@ -67,7 +67,7 @@
 
 ### ✨ Achievements
 
-- 🚀 [My Portfolio Website](https://portfolio-senim.netlify.app/)
+- 🚀 [My Portfolio Website](https://swarnimkesharwani4.wixsite.com/my-site)
 - 📢 Group Discussion: *Peace, Justice, and Strong Institutions* shared on LinkedIn
 
 ---
