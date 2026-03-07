@@ -59,6 +59,7 @@
 ### 🏅 Certificates
 
 - 🎓 [W3Elites Summer Training Certificate (2024)](https://drive.google.com/file/d/1mfst7u6MYZnwJG8nGXAwot9efZygr3j3/view?usp=sharing)
+- ☁️ NPTEL: Cloud Computing (2024)
 - 📜 Coursera: Web Development with HTML, CSS, JS (2024)
 - 📜 Coursera: Programming in C++ (2023)
 - 🎗️ CDP Volunteer Certificate (Encourage Child Foundation - 2023)
