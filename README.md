@@ -67,7 +67,7 @@
 ---
 
 ### ✨ Achievements
-
+- ⭐ Achieved **4⭐ in Java on HackerRank**
 - 🚀 [My Portfolio Website](https://swarnimkesharwani4.wixsite.com/my-site)
 - 📢 Group Discussion: *Peace, Justice, and Strong Institutions* shared on LinkedIn
 
