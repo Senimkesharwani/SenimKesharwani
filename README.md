@@ -75,7 +75,7 @@
 
 ### 🎓 Education
 
-- 💻 **B.Tech - CSE**, Lovely Professional University, CGPA: 7.5 *(2022 - Present)*
+- 💻 **B.Tech - CSE**, Lovely Professional University, CGPA: 7.52 *(2022 - Present)*
 - 📘 **Intermediate**, Seth Dwarka Prasad Bajaj Education Centre – 81%
 - 📗 **Matriculation**, Seth Dwarka Prasad Bajaj Education Centre – 76%
 
