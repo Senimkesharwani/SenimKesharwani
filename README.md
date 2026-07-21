@@ -54,7 +54,7 @@ Software Engineer • Full Stack Developer • MERN Stack • Java Developer
 
 
 
-<a href="YOUR_RESUME_LINK">
+<a href="https://drive.google.com/file/d/1CWXwT1MkRjiEvYFj-5zLzdvyI4KrsYo3/view?usp=sharing">
 
 <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
 
