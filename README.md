@@ -207,8 +207,8 @@ Responsive shopping website with authentication and product management.
 | Degree | Institute | Year |
 |---------|-----------|------|
 | B.Tech CSE | Lovely Professional University | 2022 - 2026 |
-| Intermediate | Seth Dwarka Prasad Bajaj Education Centre | 2022 |
-| Matriculation | Seth Dwarka Prasad Bajaj Education Centre | 2020 |
+| Intermediate | Seth Dwarka Prasad Bajaj Education Centre | 2021 |
+| Matriculation | Seth Dwarka Prasad Bajaj Education Centre | 2019 |
 
 CGPA : **7.74**
 
@@ -244,7 +244,7 @@ CGPA : **7.74**
 
 # 📈 Contribution Graph
 
-[![Swarnim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SenimKesharwani&theme=tokyo-night)](https://github.com/SenimKesharwani)
+[![Senim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SenimKesharwani&theme=tokyo-night)](https://github.com/SenimKesharwani)
 
 ---
 
