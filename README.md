@@ -142,9 +142,9 @@ A modern Apple iPhone landing page built with React and advanced animations.
 - GSAP
 - Vite
 
-GitHub
+🔗 Live Demo
 
-https://github.com/SenimKesharwani/Iphone_CloneApp
+https://iphoneclon.netlify.app/
 
 ---
 
@@ -159,9 +159,10 @@ Interactive Quiz Platform featuring score tracking and multiple categories.
 - JavaScript
 - MongoDB
 
-GitHub
 
-https://github.com/SenimKesharwani/Quiz-App
+🔗 Live Demo
+
+https://quiz-app-main-4nx4.onrender.com/
 
 ---
 
