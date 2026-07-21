@@ -1,102 +1,295 @@
-<h1 align="center">Hi 👋, I'm Senim Kesharwani</h1>
-<h3 align="center">Frontend Developer | MERN Stack Enthusiast | Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Swarnim Kesharwani</h1>
+
+<h3 align="center">
+Software Engineer • Full Stack Developer • MERN Stack • Java Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;React.js+Lover;C%2B%2B+%7C+JavaScript+%7C+NodeJS;Passionate+about+learning+%26+building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;Java+%7C+React.js+%7C+Node.js;Building+Scalable+Web+Applications;Always+Learning+Something+New+🚀" />
+</p>
+
+<p align="center">
+
+<a href="mailto:swarnimkesharwani4@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/senim-kesharwani/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SenimKesharwani">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://swarnimkesharwani4.wixsite.com/my-site">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+<a href="YOUR_RESUME_LINK">
+<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently pursuing **B.Tech in Computer Science** at **Lovely Professional University**
-- 🌱 I’ve completed **Full Stack MERN + AI Integration Training** at **W3Elites**
-- 💪 Built projects like [**Fitness App**](https://swarnimfitnessreact.netlify.app/) using **React** + **Rapid API**
-- 👨‍👩‍👧‍👦 Volunteered at **Encourage Child Foundation** for community health & education
-- 📫 Reach me at **swarnimkesharwani4@gmail.com**
+# 👨‍💻 About Me
+
+🎓 B.Tech Graduate in Computer Science & Engineering from **Lovely Professional University (2022–2026)**
+
+💻 Passionate about building responsive, scalable and user-friendly web applications.
+
+🚀 Experienced in developing Full Stack applications using the MERN Stack.
+
+🌱 Currently learning
+
+- Spring Boot
+- System Design
+- Docker
+- AWS Cloud
+- Advanced DSA
+
+🎯 Looking for Software Development opportunities where I can contribute, learn and grow.
+
+📍 India
+
+📫 **swarnimkesharwani4@gmail.com**
 
 ---
 
-### 🚀 Tech Stack
+# 🚀 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white" />
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,cpp,js,html,css"/>
+
+</p>
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,bootstrap"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+</p>
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify"/>
+
 </p>
 
 ---
 
-### 🧠 Soft Skills
+# 💼 Featured Projects
 
-- 🧩 Problem Solving
-- 🤝 Team Collaboration
-- 🔄 Adaptability
-- 🕵️‍♂️ Attention to Detail
-- 🧠 Project Management
+## 💪 Fitness Application
 
----
+🔗 Live Demo
 
-### 🛠️ Projects
+https://swarnimfitnessreact.netlify.app/
 
-#### 💪 Fitness App (React + Rapid API) | July 2024
-- Built a responsive fitness app with search & filter using **ExerciseDB API**
-- Boosted user engagement by 35% via optimized UX/UI
-- **Tech Used**: React.js, Rapid API, CSS
+### Features
 
-#### 🧠 Quiz App (HTML/CSS/JS + MongoDB) | April 2024
-- Real-time scoring & interactive question navigation
-- Increased daily active users by 15%
-- **Tech Used**: HTML, CSS, JS, MongoDB
+- Search Exercises
+- Exercise Categories
+- Exercise Details
+- YouTube Video Integration
+- Responsive Design
+- ExerciseDB API Integration
 
----
+**Tech Stack**
 
-### 🏅 Certificates
+React.js
 
-- 🎓 [W3Elites Summer Training Certificate (2024)](https://drive.google.com/file/d/1mfst7u6MYZnwJG8nGXAwot9efZygr3j3/view?usp=sharing)
-- ☁️ NPTEL: Cloud Computing (2025)
-- 📜 Coursera: Web Development with HTML, CSS, JS (2024)
-- 📜 Coursera: Programming in C++ (2023)
-- 🎗️ CDP Volunteer Certificate (Encourage Child Foundation - 2023)
+RapidAPI
+
+REST API
+
+CSS
 
 ---
 
-### ✨ Achievements
-- ⭐ Achieved **5⭐ in Java on HackerRank**
-- 🚀 [My Portfolio Website](https://swarnimkesharwani4.wixsite.com/my-site)
-- 📢 Group Discussion: *Peace, Justice, and Strong Institutions* shared on LinkedIn
+## 📱 Apple iPhone Clone
+
+A modern Apple iPhone landing page built with React and advanced animations.
+
+**Tech**
+
+- React.js
+- Three.js
+- GSAP
+- Vite
+
+GitHub
+
+https://github.com/SenimKesharwani/Iphone_CloneApp
 
 ---
 
-### 🎓 Education
+## 🧠 Quiz Application
 
-- 💻 **B.Tech - CSE**, Lovely Professional University, CGPA: 7.52 *(2022 - Present)*
-- 📘 **Intermediate**, Seth Dwarka Prasad Bajaj Education Centre – 81%
-- 📗 **Matriculation**, Seth Dwarka Prasad Bajaj Education Centre – 76%
+Interactive Quiz Platform featuring score tracking and multiple categories.
+
+**Tech**
+
+- HTML
+- CSS
+- JavaScript
+- MongoDB
+
+GitHub
+
+https://github.com/SenimKesharwani/Quiz-App
 
 ---
 
-### 🌐 Let's Connect
+## 🛒 E-Commerce Website
+
+Responsive shopping website with authentication and product management.
+
+**Tech**
+
+- PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript
+
+---
+
+# 🏆 Certifications
+
+- ✅ Full Stack MERN + AI Integration Training (W3Elites)
+- ✅ NPTEL Cloud Computing
+- ✅ Coursera - Web Development
+- ✅ Coursera - Programming in C++
+- ✅ Encourage Child Foundation Volunteer
+
+---
+
+# 🏅 Achievements
+
+⭐ 5★ Java on HackerRank
+
+🎓 B.Tech Graduate (2026)
+
+🚀 Developed multiple Full Stack Projects
+
+💼 Selected for TCS
+
+🤝 Community Volunteer
+
+---
+
+# 📚 Education
+
+| Degree | Institute | Year |
+|---------|-----------|------|
+| B.Tech CSE | Lovely Professional University | 2022 - 2026 |
+| Intermediate | Seth Dwarka Prasad Bajaj Education Centre | 2022 |
+| Matriculation | Seth Dwarka Prasad Bajaj Education Centre | 2020 |
+
+CGPA : **YOUR_CGPA**
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SenimKesharwani&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenimKesharwani&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SenimKesharwani&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SenimKesharwani&theme=tokyonight&margin-w=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Swarnim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SenimKesharwani&theme=tokyo-night)](https://github.com/SenimKesharwani)
+
+---
+
+# 🌱 Currently Learning
+
+- Spring Boot
+- System Design
+- Docker
+- AWS Cloud
+- Microservices
+- Data Structures & Algorithms
+
+---
+
+# 🤝 Connect With Me
 
 <p align="left">
-  <a href="mailto:swarnimkesharwani4@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?style=flat&logo=Gmail&logoColor=white" /></a>
-  <a href="https://github.com/SenimKesharwani"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/senim-kesharwani/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" /></a>
+
+<a href="mailto:swarnimkesharwani4@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/senim-kesharwani/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/SenimKesharwani">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SenimKesharwani&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SenimKesharwani&theme=tokyonight" />
+
+<img src="https://komarev.com/ghpvc/?username=SenimKesharwani&label=Profile%20Views&color=0e75b6&style=flat"/>
+
 </p>
 
 ---
 
-> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+<h3 align="center">
 
+💡 "Building software that solves real-world problems, one project at a time."
+
+</h3>
