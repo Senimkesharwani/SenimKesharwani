@@ -198,8 +198,6 @@ Responsive shopping website with authentication and product management.
 
 🚀 Developed multiple Full Stack Projects
 
-💼 Selected for TCS
-
 🤝 Community Volunteer
 
 ---
@@ -212,7 +210,7 @@ Responsive shopping website with authentication and product management.
 | Intermediate | Seth Dwarka Prasad Bajaj Education Centre | 2022 |
 | Matriculation | Seth Dwarka Prasad Bajaj Education Centre | 2020 |
 
-CGPA : **YOUR_CGPA**
+CGPA : **7.74**
 
 ---
 
